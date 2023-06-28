@@ -1,2 +1,2 @@
 # HangmanGame
-Play a game of hangman with your computer.
+Play a game of hangman against your computer.
